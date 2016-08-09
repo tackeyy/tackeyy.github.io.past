@@ -1,0 +1,16 @@
+baseurl = "http://blog.tackeyy.org/"
+languageCode = "jp"
+title = "F.C. BigDecimal | 読んだ本のメモやWebまわりのはなし"
+disqusShortname = "tackeyy"
+
+[Params]
+profile = "/images/profile.png"
+github = "https://github.com/tackeyy"
+twitter = "https://twitter.com/3chhe"
+analytics = "UA-77183052-1"
+shareThis = "35ad5203-7b04-4e6a-930a-5ee18090622a"
+disqusShortname = "http-blog-tackeyy-org"
+
+# subtitle = ""
+# facebook = "https://www.facebook.com/takita.yusuke"
+# copyright = "Written by who see you above"
